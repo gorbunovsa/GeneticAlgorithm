@@ -36,7 +36,6 @@ begin
             p:=p/x;
         pow:=p
     end
-
 end;
 function dec(var a:individual):real;
 var
